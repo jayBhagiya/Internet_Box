@@ -1,2 +1,16 @@
-# Internet_Box
-This box can connect any Ac powered device to internet.
+# __Internet_Box__
+This box can connect any Ac powered device to internet.And we can operate this devise with our moblie from anywhere.
+
+# __Here is the pinout amd circuit diagram__
+
+![alt text](Internet_Box_Circuit.JPG?raw=true)
+
+# __Adafruit Web page on/off Button__
+
+![alt text](Adafruit_Photo.jpeg?raw=true)
+![alt text](ON_OFF.JPG?raw=true)
+
+# __My Box Image__
+
+![alt text](Top.jpeg?raw=true)
+![alt text](Top_Led.jpeg?raw=true)
