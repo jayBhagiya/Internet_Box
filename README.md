@@ -1,4 +1,4 @@
-# __Internet_Box__
+# __Wireless Box__
 This box can connect any Ac powered device to internet.And we can operate this devise with our moblie from anywhere.I have added some Photos and Video to tihs repository. 
 
 
