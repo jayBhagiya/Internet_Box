@@ -6,12 +6,6 @@ This box can connect any Ac powered device to internet.And we can operate this d
 
 ![alt text](Images/Wireless_Box_Circuit.JPG?raw=true)
 
-## __Adafruit Web page on/off Button__
+## __Here is the working video of Wrieless boc__
 
-![alt text](Images/Adafruit_Photo.jpeg?raw=true)
-![alt text](Images/ON_OFF.JPG?raw=true)
-
-## __My Box Image__
-
-![alt text](Images/Top.jpeg?raw=true)
-![alt text](Images/Top_Led.jpeg?raw=true)
+![Demo Video](working_video.gif)
